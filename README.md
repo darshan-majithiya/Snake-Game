@@ -12,3 +12,7 @@ To run the code in the terminal, simply run the `snakeGame.py` file using Python
 ```
 python snakeGame.py
 ```
+### Versions
+
+#### Version 1.1
+This version implements the basic functionality of the Snake Game.
